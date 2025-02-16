@@ -5,5 +5,5 @@ langchain
 pyPDF2
 langchain-community
 faiss-cpu
-faiss-cpu
+chromadb
 langchain_google_genai
